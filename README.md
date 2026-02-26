@@ -69,10 +69,10 @@ Send a question and receive an AI-generated answer based on the FAQ dataset.
 
 **Response:**
 ```json
-{ "reply": "We offer a 30-day return policy on all items." }
+{ "response": "We offer a 30-day return policy on all items." }
 ```
 
-### `GET /health`
+### `GET /api/health`
 
 Returns `200 OK` when the server is running.
 
