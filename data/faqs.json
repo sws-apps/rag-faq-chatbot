@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "question": "What is your return policy?",
+    "answer": "You can return any item within 30 days of purchase for a full refund, provided the item is in its original condition and packaging. Simply visit our Returns Center, select your order, and follow the instructions to print a prepaid shipping label. Refunds are processed within 5-7 business days of receiving the returned item.",
+    "category": "returns"
+  },
+  {
+    "id": 2,
+    "question": "How do I return a damaged or defective item?",
+    "answer": "If you received a damaged or defective item, please contact us within 48 hours of delivery by emailing support@shopeasy.com with photos of the damage. We will arrange a free return pickup and send you a replacement or issue a full refund at no extra cost. You do not need the original packaging for damaged or defective returns.",
+    "category": "returns"
+  },
+  {
+    "id": 3,
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 5-7 business days, while expedited shipping takes 2-3 business days. Overnight shipping is available for orders placed before 12 PM EST. Shipping times may be longer for remote areas or during peak holiday seasons.",
+    "category": "shipping"
+  },
+  {
+    "id": 4,
+    "question": "Do you offer free shipping?",
+    "answer": "Yes! We offer free standard shipping on all orders over $50. ShopEasy Premium members enjoy free shipping on every order regardless of the total. For orders under $50, standard shipping is a flat rate of $5.99.",
+    "category": "shipping"
+  },
+  {
+    "id": 5,
+    "question": "Can I track my order?",
+    "answer": "Absolutely. Once your order ships, you will receive a shipping confirmation email with a tracking number and a link to track your package in real time. You can also visit the 'My Orders' section of your account at any time to view the latest tracking information.",
+    "category": "shipping"
+  },
+  {
+    "id": 6,
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit and debit cards (Visa, Mastercard, American Express, Discover), PayPal, Apple Pay, Google Pay, and ShopEasy Gift Cards. All transactions are encrypted and processed securely through our PCI-DSS compliant payment gateway.",
+    "category": "payments"
+  },
+  {
+    "id": 7,
+    "question": "Is it safe to use my credit card on your website?",
+    "answer": "Yes, your payment information is completely safe with us. We use industry-standard SSL/TLS encryption and are fully PCI-DSS Level 1 compliant. We never store your full card number — only a tokenized reference provided by our payment processor.",
+    "category": "payments"
+  },
+  {
+    "id": 8,
+    "question": "Can I use multiple payment methods for one order?",
+    "answer": "You can combine a ShopEasy Gift Card with one other payment method (credit card, PayPal, Apple Pay, or Google Pay) for a single order. However, splitting a payment across two credit cards or two PayPal accounts is not currently supported.",
+    "category": "payments"
+  },
+  {
+    "id": 9,
+    "question": "How do I create a ShopEasy account?",
+    "answer": "Click the 'Sign Up' button on the top right of any page and enter your name, email address, and a password. You can also sign up instantly using your Google or Facebook account. Once registered, you can track orders, save addresses, and manage your preferences from your account dashboard.",
+    "category": "account"
+  },
+  {
+    "id": 10,
+    "question": "I forgot my password. How do I reset it?",
+    "answer": "Click 'Sign In' and then select 'Forgot Password?' on the login page. Enter the email address associated with your account and we will send you a password reset link within a few minutes. The link expires after 1 hour for security reasons, so be sure to use it promptly.",
+    "category": "account"
+  },
+  {
+    "id": 11,
+    "question": "Are the products on ShopEasy authentic?",
+    "answer": "Yes, all products sold directly by ShopEasy are 100% authentic and sourced from authorized distributors and brand partners. For items sold by third-party sellers on our marketplace, we require seller verification and have an anti-counterfeit policy. If you ever suspect a product is not genuine, report it to support@shopeasy.com immediately.",
+    "category": "products"
+  },
+  {
+    "id": 12,
+    "question": "Do you offer product warranties?",
+    "answer": "Most electronics and appliances come with the manufacturer's standard warranty. ShopEasy also offers an optional extended warranty plan (ShopEasy Protect) for eligible items, which you can add at checkout. Warranty details and coverage are listed on each product's detail page.",
+    "category": "products"
+  },
+  {
+    "id": 13,
+    "question": "How do I contact customer support?",
+    "answer": "You can reach our customer support team 24/7 via live chat on our website, by email at support@shopeasy.com, or by phone at 1-800-SHOPEASY (Mon–Fri, 8 AM–8 PM EST). Our average email response time is under 4 hours, and live chat wait times are typically under 2 minutes.",
+    "category": "support"
+  },
+  {
+    "id": 14,
+    "question": "How do I cancel or modify my order?",
+    "answer": "Orders can be cancelled or modified within 1 hour of placement, before they enter the fulfillment process. Go to 'My Orders' in your account, select the order, and click 'Cancel' or 'Edit Order'. If the order has already shipped, you will need to initiate a return once you receive it.",
+    "category": "support"
+  }
+]
