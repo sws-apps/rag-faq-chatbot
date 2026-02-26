@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShopEasy Support Chat</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <h1>ShopEasy Support</h1>
+            <p>Ask us anything about orders, returns, shipping &amp; more</p>
+        </div>
+        <div class="chat-messages" id="chatMessages" role="log" aria-live="polite" aria-label="Chat messages">
+            <!-- Welcome message -->
+            <div class="message bot-message">
+                <div class="message-content">
+                    Hi! I'm the ShopEasy support assistant. How can I help you today?
+                </div>
+            </div>
+        </div>
+        <div class="chat-input-area">
+            <label for="messageInput" class="sr-only">Type your message</label>
+            <input
+                type="text"
+                id="messageInput"
+                placeholder="Type your question..."
+                autocomplete="off"
+                aria-label="Type your question"
+            >
+            <button id="sendButton" aria-label="Send message">Send</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
