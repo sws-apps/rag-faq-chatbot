@@ -1,6 +1,5 @@
 node_modules/
 .env
-.lancedb/
 lancedb_data/
 *.log
 dist/
